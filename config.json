@@ -1,6 +1,6 @@
 {
-    "path": "G:\\书源\\bookSource.json",
+    "path": "http://mirror.ghproxy.com/https://raw.githubusercontent.com/shidahuilang/shuyuan/shuyuan/good.json",
     "workers": "30",
     "dedup": "y",
-    "outpath": "./new"
+    "outpath": "./two/"
 }
